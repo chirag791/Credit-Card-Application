@@ -1,4 +1,4 @@
-# 💳 Credit Card Application
+# 💳 Credit Card Application Project
 
 A Spring Boot based Credit Card Application that demonstrates a RESTful backend for managing credit card-related operations. This project is built using Java, Spring Boot, and Maven.
 
